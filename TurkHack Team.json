@@ -1,0 +1,29 @@
+{
+
+  "contact": "HarunYhy63",
+
+  "templates": [
+
+    {
+
+      "name": "Turkhack Team",
+
+      "sources": [
+
+        "https://github.com/HarunYhy/R-Place/raw/main/image.png"
+
+      ],
+
+      "x": 792,
+
+      "y": 1462
+
+    },
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
