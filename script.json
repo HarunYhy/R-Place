@@ -7,42 +7,9 @@
             "sources": [
                 "https://github.com/HarunYhy/R-Place/raw/main/image.png"
             ],
-            "priorityMaskSources": [
-                "https://kendi-mask-adresiniz-1"
-            ],
             "x": 0,  // Koordinat x değeri
             "y": 0   // Koordinat y değeri
         },
-        {
-            "name": "Şablon Adı 2",
-            "sources": [
-                "https://kendi-kaynak-adresiniz-2"
-            ],
-            "x": 300,  // Koordinat x değeri
-            "y": 400   // Koordinat y değeri
-        },
         // Diğer şablonlar buraya eklenebilir
-    ],
-    "whitelist": [
-        {
-            "name": "Whitelist Kayıt Adı 1",
-            "url": "https://kendi-whitelist-adresiniz-1"
-        },
-        {
-            "name": "Whitelist Kayıt Adı 2",
-            "url": "https://kendi-whitelist-adresiniz-2"
-        },
-        // Diğer whitelist kayıtları buraya eklenebilir
-    ],
-    "blacklist": [
-        {
-            "name": "Blacklist Kayıt Adı 1",
-            "url": "https://kendi-blacklist-adresiniz-1"
-        },
-        {
-            "name": "Blacklist Kayıt Adı 2",
-            "url": "https://kendi-blacklist-adresiniz-2"
-        },
-        // Diğer blacklist kayıtları buraya eklenebilir
     ]
 }
