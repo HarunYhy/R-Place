@@ -1,15 +1,75 @@
 {
-    "faction": "TurkHack Team",
-    "contact": "HarunYhy63",
+    "faction": "/r/osuplace",
+    "contact": "discord.osu.place - littleendu#0 or emi.x#0",
+    "notifications": "https://broadcaster.osu.place",
     "templates": [
         {
-            "name": "logo",
+            "name": "",
             "sources": [
-                "https://github.com/HarunYhy/R-Place/raw/main/image.png"
+                "https://github.com/HarunYhy/R-Place/blob/main/image.png"
+            ],
+            "priorityMaskSources": [
+                ""
             ],
             "x": 0,
             "y": 0
+        },
+        {
+            "name": "bad apple placeholder",
+            "sources": [
+                ""
+            ],
+            "x": 662,
+            "y": 673
+        },
+        {
+            "name": "bad apple video",
+            "sources": [
+                "",
+                "",
+                ""
+            ],
+            "priorityMaskSources": [
+                "",
+                "",
+                ""
+            ],
+            "x": -662,
+            "y": -673,
+            "frameWidth": 40,
+            "frameHeight": 30,
+            "frameRate": 43,
+            "frameCount": 6605,
+            "startTime": 1687525200,
+            "looping": false
         }
-        // Diğer şablonlar buraya eklenebilir
+    ],
+    "whitelist": [
+        {
+            "name": "Digital Clock",
+            "url": ""
+        },
+        {
+            "name": "Starwars",
+            "url": ""
+        },
+        {
+            "name": "touhou",
+            "url": ""
+        },
+        {
+            "name": "Foxhole",
+            "url": ""
+        }
+    ],
+    "blacklist": [
+        {
+            "name": "old r/osuplace",
+            "url": ""
+        },
+        {
+            "name": "old r/osuplace",
+            "url": ""
+        }
     ]
 }
