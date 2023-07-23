@@ -1,0 +1,69 @@
+{
+    "templates": [
+        {
+            "name": "TurkHack;",
+            "sources": [
+                "https://github.com/HarunYhy/R-Place/raw/main/image.png"
+            ],
+            "x": 0,
+            "y": 0
+        },
+        {
+            "name": "bad apple placeholder",
+            "sources": [
+                "https://i.imgur.com/hMWmsvu.png"
+            ],
+            "x": 662,
+            "y": 673
+        },
+        {
+            "name": "bad apple video",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/364902074858602498/1109838633478934599/uploaded-colordata-index.png",
+                "https://i.imgur.com/yFRf2Kt.png",
+                "https://files.catbox.moe/ruyu9c.png"
+            ],
+            "priorityMaskSources": [
+                "https://cdn.discordapp.com/attachments/364902074858602498/1109845838743740556/uploaded-priority-mask-final-dither-index.png",
+                "https://i.imgur.com/Hx8fbHm.png",
+                "https://files.catbox.moe/vdh1y2.png"
+            ],
+            "x": -662,
+            "y": -673,
+            "frameWidth": 40,
+            "frameHeight": 30,
+            "frameRate": 43,
+            "frameCount": 6605,
+            "startTime": 1687525200,
+            "looping": false
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "Digital Clock",
+            "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
+        },
+        {
+            "name": "Starwars",
+            "url": "https://rentry.org/starwars_place/raw"
+        },
+        {
+            "name": "touhou",
+            "url": "https://rentry.org/touhouplace2023/raw"
+        },
+        {
+            "name": "Foxhole",
+            "url": "https://rentry.co/FoxholeTemplate/raw"
+        }
+    ],
+    "blacklist": [
+        {
+            "name": "old r/osuplace",
+            "url": "https://rentry.org/osuplace2023/raw"
+        },
+        {
+            "name": "old r/osuplace",
+            "url": "https://rentry.co/osuplace2023/raw"
+        }
+    ]
+}
