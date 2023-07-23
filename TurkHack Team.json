@@ -6,12 +6,26 @@
 
     {
 
-      "name": "TurkhackTeam",
+      "name": "Turkish flag",
 
       "sources": [
 
-        "https://raw.githubusercontent.com/HarunYhy/R-Place/main/image.png"
+        "https://raw.githubusercontent.com/HarunYhy/.../main/CurrentTRFlag.png"
 
+      ],
+
+      "x": 632,
+
+      "y": 1290
+
+    },
+
+    {
+
+      "name": "TurkHack",
+
+      "sources": [
+        "https://raw.githubusercontent.com/HarunYhy/R-Place/main/image.png"
       ],
 
       "x": 792,
@@ -19,7 +33,344 @@
       "y": 1462
 
     },
+    {
 
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
+    {
+
+      "name": "",
+
+      "sources": [
+        ""
+      ],
+
+      "x": ,
+
+      "y": 
+
+    },
   ],
 
   "whitelist": [],
